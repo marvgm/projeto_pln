@@ -1,0 +1,14 @@
+Usei para a solução o pacote "Anaconda navigator v 1.8.7"
+que já vem com os modulos necessários e o python 3+
+por padrão.
+
+Disponível em https://www.anaconda.com/download/
+
+Para exeutar o código é necessario o uso do jupyter notebook
+Arquivo: "teste.ipynb"
+
+O arquivo "teste_tecnico.html" possui o código fonte e sua explicação
+detalhada. 
+
+A pasta "Dados", contendo os arquivos de texto, deve estar no mesmo diretórico
+do arquivo "teste.ipynb"
